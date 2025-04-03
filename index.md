@@ -8,7 +8,7 @@
 ---
 
 ## 👋 About Me  
-Results-driven **Test Automation Engineer** with 2+ years of experience in **CI/CD automation, cloud infrastructure (AWS, GCP), and containerization (Docker, Kubernetes)**.  
+Results-driven **Test Automation Engineer** with 2+ years of experience in **CI/CD automation, cloud infrastructure (AWS), and containerization (Docker, Kubernetes)**.  
 Proven ability to optimize software delivery pipelines using **Jenkins, Terraform, and Ansible**.  
 
 Currently working as an **Associate Test Automation Engineer at Oracle Cerner HealthCare Solutions**.  
