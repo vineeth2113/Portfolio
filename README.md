@@ -93,5 +93,3 @@ _Specialization: Cyber Security and Blockchain Technology_
 🔗 [GitHub](https://github.com/vineeth2113)  
 
 ---
-
-🔹 This portfolio is powered by **GitHub Pages**. Feel free to clone and modify! 🚀  
